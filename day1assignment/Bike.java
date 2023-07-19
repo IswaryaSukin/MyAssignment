@@ -12,5 +12,5 @@ public class Bike {
 		cls.applyBreak();
 		cls.soundHorn();
 	}
-
+}
 	
